@@ -1,7 +1,7 @@
 # PetClinic CI
 
 
-https://travis-ci.com/xMomaKekzx/Petclinic-CI.svg?branch=master
+[![Build Status](https://travis-ci.com/xMomaKekzx/Petclinic-CI.svg?branch=master)](https://travis-ci.com/xMomaKekzx/Petclinic-CI)
 
 
 # License
