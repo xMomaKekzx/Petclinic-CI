@@ -1,7 +1,7 @@
 # PetClinic CI
 
 
-// Insert URL to status image here.
+https://travis-ci.com/xMomaKekzx/Petclinic-CI.svg?branch=master
 
 
 # License
