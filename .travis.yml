@@ -1,2 +1,8 @@
+deploy:
+provider: heroku
+api-key:
+secure: $HEROKU_API_KEY
+app: petclinic-ci-<Ihr_Name>
+
 language: java
 jdk: oraclejdk8
